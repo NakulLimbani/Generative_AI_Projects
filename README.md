@@ -17,6 +17,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - [Tutorial 3: Exploring Latent Space and Interpolation](#tutorial-3-exploring-latent-space-and-interpolation)
 - [Tutorial 4: VAE on Fashion MNIST Dataset](#tutorial-4-vae-on-fashion-mnist-dataset)
 - [Tutorial 5: Apply Regularization Techniques to Improve VAE](#tutorial-5-apply-regularization-techniques-to-improve-vae)
+- [Tutorial 8: AI based Text Summarization Application](#tutorial-8-ai-based-text-summarization-application)
 
 ---
 
