@@ -79,6 +79,18 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
+
+### Tutorial 8: **AI based Text Summarization Application**
+
+**Objective:** Develop a text summarization tool using pre-trained transformer models (T5, BART, Pegasus) and extractive techniques (TextRank) to generate concise summaries from news articles or business reports.
+
+**Key Features:**
+- Implementation of Abstractive (T5, BART, Pegasus) and Extractive (TextRank) summarization.
+- Flask-based web application for interactive summarization.
+- Evaluation using ROUGE & BLEU scores for performance analysis.
+
+---
+
 ## Why This Repository?
 
 This repository serves as a hub for experiments, tutorials, and real-world applications of generative models. It's designed for developers, data scientists, and AI enthusiasts who are interested in:
