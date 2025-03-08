@@ -14,7 +14,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 - [Tutorial 1: Generative Adversarial Networks (GANs) on MNIST](#tutorial-1-generative-adversarial-networks-gans-on-MNIST)
 - [Tutorial 2: Generative Adversarial Networks (GANs) on CIFAR-10](#tutorial-2-generative-adversarial-networks-gans-on-CIFAR-10)
-- [Tutorial 3: Variational Autoencoder (VAE) on Fashion MNIST](#tutorial-3-variational-autoencoder-(vae)-on-fashion-mnist)
+- [Tutorial 3: Variational Autoencoder (VAE) on Fashion MNIST](#tutorial-3-variational-autoencoder-vae-on-fashion-mnist)
 - [Tutorial 4: VAE on Fashion MNIST Dataset](#tutorial-4-vae-on-fashion-mnist-dataset)
 - [Tutorial 5: Apply Regularization Techniques to Improve VAE](#tutorial-5-apply-regularization-techniques-to-improve-vae)
 - [Tutorial 6: Fine-Tuning a Transformer Model on Wikipedia Text Corpus](#tutorial-6-fine-tuning-a-transformer-model-on-wikipedia-text-corpus)
