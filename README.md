@@ -14,7 +14,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 - [Tutorial 1: Generative Adversarial Networks (GANs) on MNIST](#tutorial-1-generative-adversarial-networks-gans-on-MNIST)
 - [Tutorial 2: Generative Adversarial Networks (GANs) on CIFAR-10](#tutorial-2-generative-adversarial-networks-gans-on-CIFAR-10)
-- [Tutorial 3: Exploring Latent Space and Interpolation](#tutorial-3-exploring-latent-space-and-interpolation)
+- [Tutorial 3: Variational Autoencoder (VAE) on Fashion MNIST](#tutorial-3-variational-autoencoder-(vae)-on-fashion-mnist)
 - [Tutorial 4: VAE on Fashion MNIST Dataset](#tutorial-4-vae-on-fashion-mnist-dataset)
 - [Tutorial 5: Apply Regularization Techniques to Improve VAE](#tutorial-5-apply-regularization-techniques-to-improve-vae)
 - [Tutorial 6: Fine-Tuning a Transformer Model on Wikipedia Text Corpus](#tutorial-6-fine-tuning-a-transformer-model-on-wikipedia-text-corpus)
@@ -47,14 +47,16 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 3: **Exploring Latent Space and Interpolation**
+### Tutorial 3: **Variational Autoencoder (VAE) on Fashion MNIST**
 
-**Objective:** Explore the latent space of VAE to understand its generative capabilities.
+**Objective:** This tutorial demonstrates the implementation and training of a Variational Autoencoder (VAE) using the Fashion MNIST dataset. The VAE is trained to learn meaningful latent representations for image reconstruction and generation.
 
 **Key Features:**
-- Visualizing the latent space using t-SNE.
-- Generating new images through interpolation in latent space.
-- Understanding smoothness and clustering in latent representations.
+- Implementation of Encoder, Decoder, and Variational Sampling.
+- Training using the Fashion MNIST dataset.
+- Visualization of training loss and reconstructed images.
+- Analysis of latent space using t-SNE and PCA.
+- Comparison with standard Autoencoders.
 
 ---
 
