@@ -17,6 +17,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - [Tutorial 3: Exploring Latent Space and Interpolation](#tutorial-3-exploring-latent-space-and-interpolation)
 - [Tutorial 4: VAE on Fashion MNIST Dataset](#tutorial-4-vae-on-fashion-mnist-dataset)
 - [Tutorial 5: Apply Regularization Techniques to Improve VAE](#tutorial-5-apply-regularization-techniques-to-improve-vae)
+- [Tutorial 6: Fine-Tuning a Transformer Model on Wikipedia Text Corpus](#tutorial-6-fine-tuning-a-transformer-model-on-wikipedia-text-corpus)
 - [Tutorial 8: AI based Text Summarization Application](#tutorial-8-ai-based-text-summarization-application)
 
 ---
@@ -80,6 +81,19 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
+### Tutorial 6: **Fine-Tuning a Transformer Model on Wikipedia Text Corpus**
+
+**Objective:** This project demonstrates the implementation and fine-tuning of a pre-trained Transformer model (GPT-2) on the Wikipedia text corpus. The goal is to improve text generation quality by leveraging transfer learning and analyzing the model’s performance through various evaluation metrics.
+
+**Key Features:**
+- Loading and fine-tuning GPT-2 on Wikipedia dataset
+- Efficient tokenization and preprocessing for text corpus
+- Adversarial training using AdamW optimizer, learning rate scheduling, and gradient clipping
+- Training loss and evaluation loss visualizations
+- Comparison of text generation before and after fine-tuning
+- Perplexity calculation to evaluate language model performance
+
+---
 
 ### Tutorial 8: **AI based Text Summarization Application**
 
