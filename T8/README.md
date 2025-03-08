@@ -49,4 +49,5 @@ python app.py
 ---
 
 🔹 Experiment with different texts and compare the summarization models! 🚀
-```
+
+---
