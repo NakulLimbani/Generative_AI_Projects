@@ -1,5 +1,3 @@
----
-
 # Tutorial 09: Generative Model for Marketing Emails Using LSTM
 
 ---
