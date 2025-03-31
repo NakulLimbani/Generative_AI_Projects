@@ -19,6 +19,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - [Tutorial 5: Apply Regularization Techniques to Improve VAE](#tutorial-5-apply-regularization-techniques-to-improve-vae)
 - [Tutorial 6: Fine-Tuning a Transformer Model on Wikipedia Text Corpus](#tutorial-6-fine-tuning-a-transformer-model-on-wikipedia-text-corpus)
 - [Tutorial 8: AI based Text Summarization Application](#tutorial-8-ai-based-text-summarization-application)
+- [Tutorial 9: Generative Model for Marketing Emails Using LSTM](#tutorial-9-generative-model-for-marketing-emails-using-lstm)
 
 ---
 
@@ -105,6 +106,18 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - Implementation of Abstractive (T5, BART, Pegasus) and Extractive (TextRank) summarization.
 - Flask-based web application for interactive summarization.
 - Evaluation using ROUGE & BLEU scores for performance analysis.
+
+---
+
+### Tutorial 9: **Generative Model for Marketing Emails Using LSTM**
+
+**Objective:** Develop a Generative Model using LSTM to generate personalized marketing emails from the Enron Email Dataset. The aim is to create realistic email content for marketing purposes.
+
+**Key Features:**
+- LSTM-based Text Generation: Utilize Bidirectional LSTM layers for generating coherent emails.
+- Preprocessing: Clean and tokenize the Enron dataset for training.
+- Temperature Sampling: Control creativity in generated text with temperature values.
+- Evaluation: Measure model performance using Test Loss and Perplexity metrics.
 
 ---
 
