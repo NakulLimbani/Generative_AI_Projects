@@ -20,6 +20,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - [Tutorial 6: Fine-Tuning a Transformer Model on Wikipedia Text Corpus](#tutorial-6-fine-tuning-a-transformer-model-on-wikipedia-text-corpus)
 - [Tutorial 8: AI based Text Summarization Application](#tutorial-8-ai-based-text-summarization-application)
 - [Tutorial 09: Generative Model for Marketing Emails Using LSTM](#tutorial-9-generative-model-for-marketing-emails-using-lstm)
+- [Tutorial 10: Chatbot Using Generative AI Techniques](#tutorial-10-chatbot-using-generative-ai-techniques)
 
 ---
 
@@ -119,6 +120,19 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - Temperature Sampling: Control creativity in generated text with temperature values.
 - Evaluation: Measure model performance using Test Loss and Perplexity metrics.
 
+---
+
+### Tutorial 10: **Chatbot Using Generative AI Techniques**
+
+**Objective:** Build a generative AI-based chatbot using the Cornell Movie-Dialogs Corpus. The model uses a sequence-to-sequence architecture with LSTM layers to generate human-like responses to user queries.
+
+**Key Features:**
+- LSTM-based Model: Utilizes an encoder-decoder architecture with LSTM layers to process and generate responses.
+- Dataset: Trained on the Cornell Movie-Dialogs Corpus, consisting of over 220,000 dialogue exchanges.
+- Data Preprocessing: Cleaned and tokenized dialogues, creating numerical representations for model training.
+- Model Training: Trained with cross-entropy loss using Adam optimizer for 50 epochs.
+- Inference: Real-time text generation based on user input.
+  
 ---
 
 ## Why This Repository?
