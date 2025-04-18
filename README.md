@@ -26,7 +26,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ## Tutorials Overview
 
-### Tutorial 1: **Generative Adversarial Networks (GANs) on MNIST**
+### Tutorial 01: **Generative Adversarial Networks (GANs) on MNIST**
 
 **Objective:** Train a GAN to generate realistic images from the MNIST dataset.
 
@@ -37,7 +37,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 2: **Generative Adversarial Networks (GANs) on CIFAR-10**
+### Tutorial 02: **Generative Adversarial Networks (GANs) on CIFAR-10**
 
 **Objective:** Train a GAN to generate realistic images from the the CIFAR-10 dataset.
 
@@ -49,7 +49,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 3: **Variational Autoencoder (VAE) on Fashion MNIST**
+### Tutorial 03: **Variational Autoencoder (VAE) on Fashion MNIST**
 
 **Objective:** This tutorial demonstrates the implementation and training of a Variational Autoencoder (VAE) using the Fashion MNIST dataset. The VAE is trained to learn meaningful latent representations for image reconstruction and generation.
 
@@ -62,7 +62,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 4: **VAE on Fashion MNIST Dataset**
+### Tutorial 04: **VAE on Fashion MNIST Dataset**
 
 **Objective:** Train a VAE on grayscale images from the Fashion MNIST dataset.
 
@@ -73,7 +73,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 5: **Apply Regularization Techniques to Improve VAE**
+### Tutorial 05: **Apply Regularization Techniques to Improve VAE**
 
 **Objective:** Enhance the performance of VAE using various regularization techniques and compare performance with and without regularization.
 
@@ -85,7 +85,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 6: **Fine-Tuning a Transformer Model on Wikipedia Text Corpus**
+### Tutorial 06: **Fine-Tuning a Transformer Model on Wikipedia Text Corpus**
 
 **Objective:** This project demonstrates the implementation and fine-tuning of a pre-trained Transformer model (GPT-2) on the Wikipedia text corpus. The goal is to improve text generation quality by leveraging transfer learning and analyzing the model’s performance through various evaluation metrics.
 
@@ -99,7 +99,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 8: **AI based Text Summarization Application**
+### Tutorial 08: **AI based Text Summarization Application**
 
 **Objective:** Develop a text summarization tool using pre-trained transformer models (T5, BART, Pegasus) and extractive techniques (TextRank) to generate concise summaries from news articles or business reports.
 
