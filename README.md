@@ -18,6 +18,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - [Tutorial 04: VAE on Fashion MNIST Dataset](#tutorial-04-vae-on-fashion-mnist-dataset)
 - [Tutorial 05: Apply Regularization Techniques to Improve VAE](#tutorial-05-apply-regularization-techniques-to-improve-vae)
 - [Tutorial 06: Fine-Tuning a Transformer Model on Wikipedia Text Corpus](#tutorial-06-fine-tuning-a-transformer-model-on-wikipedia-text-corpus)
+- [Tutorial 07: Building a Chatbot Using a Pre-Trained LLM](#tutorial-07-building-a-chatbot-using-a-pre-trained-llm)
 - [Tutorial 08: AI based Text Summarization Application](#tutorial-08-ai-based-text-summarization-application)
 - [Tutorial 09: Generative Model for Marketing Emails Using LSTM](#tutorial-09-generative-model-for-marketing-emails-using-lstm)
 - [Tutorial 10: Chatbot Using Generative AI Techniques](#tutorial-10-chatbot-using-generative-ai-techniques)
@@ -96,6 +97,19 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - Training loss and evaluation loss visualizations
 - Comparison of text generation before and after fine-tuning
 - Perplexity calculation to evaluate language model performance
+
+---
+
+### Tutorial 07: **Building a Chatbot Using a Pre-Trained LLM**
+
+**Objective:** Build a conversational AI chatbot using the GPT-2 model, fine-tuned on the Cornell Movie-Dialogs Corpus. The goal is to create a model capable of generating meaningful dialogue responses by leveraging transfer learning.
+
+**Key Features:**
+- Fine-tuning GPT-2 (or DistilGPT-2) on a conversational dataset.
+- Tokenization and formatting of movie dialogues into structured input-response pairs.
+- Use of gradient accumulation, mixed precision (FP16), and memory optimization techniques for training.
+- Evaluation of model performance using Perplexity (PPL) and BLEU score.
+- Interactive chatbot testing to compare pre- and post-fine-tuning performance.
 
 ---
 
